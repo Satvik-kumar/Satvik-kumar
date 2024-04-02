@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satvik kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img allign="right" alt="coding" width="400" src="![image](https://github.com/Satvik-kumar/Satvik-kumar/assets/112641720/e3eb802d-e798-4a09-a8f0-b35fdde1eef8)
+">
 
 - 🔭 I’m currently working on **VisioVox: voice powered vision using ML**
 
