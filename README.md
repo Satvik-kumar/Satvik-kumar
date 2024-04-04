@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **satvikkumar21365@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/drive/u/0/folders/1yW4DogcQMldxMyvqSYk3sVTuQYmuajU2
+- 📄 Know about my experiences- https://drive.google.com/file/d/1HCjSQp58MCqg7QbJt_pMym3GzbL74ZCm/view?usp=sharing
 
 - ⚡ Fun fact **I think i am funny,entertainer person**
 
