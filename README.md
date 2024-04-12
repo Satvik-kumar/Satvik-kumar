@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I think i am funny,entertainer person**
 
+![](https://github-profile-trophy.vercel.app/?username=Satvik-kumar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/satvikk_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satvikk_17" height="30" width="40" /></a>
