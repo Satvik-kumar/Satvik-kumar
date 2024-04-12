@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satvik-kumar&show_icons=true&locale=en" alt="satvik-kumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satvik-kumar&" alt="satvik-kumar" /></p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
