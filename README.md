@@ -14,7 +14,7 @@
 - 📄 Know about my experiences(my resume)- https://drive.google.com/file/d/1yojh3POk2zeVQMs5Fmkv58ySCGfZlw2v/view?usp=sharing
 
 - ⚡ Fun fact **I think i am funny,entertainer person**
-
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Satvik-kumar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
