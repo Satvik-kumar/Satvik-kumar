@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
- I’m currently working on **VisioVox: voice powered vision using ML**
+ I’m currently working on **VisioVox:voice powered vision using ML**
 
 
 - 🌱 I’m currently learning **nodeJs**
